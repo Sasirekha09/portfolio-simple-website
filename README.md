@@ -13,7 +13,7 @@ clean and straightforward user experience.
 -HTML
 -CSS
 
-# Hoe to view
+# How to view
 
 You can access my portfolio website by visiting: [link] feel free to explore the content and get in touch!
 
